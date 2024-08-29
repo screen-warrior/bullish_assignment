@@ -1,0 +1,7 @@
+ccxt==3.0.42           # For interacting with cryptocurrency exchanges
+redis==5.0.0           # For interacting with Redis
+APScheduler==3.9.1     # For scheduling background jobs
+matplotlib==3.8.0      # For visualizing data
+requests==2.31.0       # For handling HTTP requests (to handle ConnectionError and Timeout)
+python-dotenv==1.0.0   # For loading environment variables from a .env file
+unittest2==1.1.0       # For extended unittest capabilities, including test discovery and other features
